@@ -11,4 +11,5 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D "Rails-3D")
 [![GitHub](https://img.shields.io/github/license/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/blob/master/LICENSE "LICENSE")
 
-Repository for my texture pack "Rails-3D" (1.13.2) https://minecraft.curseforge.com/projects/rails-3d
+Repository for my texture pack "Rails-3D" (1.13.2) 
+https://minecraft.curseforge.com/projects/rails-3d
