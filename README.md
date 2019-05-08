@@ -1,4 +1,4 @@
-# Rails-3D
+# [Rails 3D](https://minecraft.curseforge.com/projects/rails-3d "Curse Forge")
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/SupinePandora43/Rails-3D.svg)](http://isitmaintained.com/project/SupinePandora43/Rails-3D "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/SupinePandora43/Rails-3D.svg)](http://isitmaintained.com/project/SupinePandora43/Rails-3D "Percentage of issues still open")
 [![GitHub issues](https://img.shields.io/github/issues/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/issues "GitHub issues")
@@ -12,5 +12,3 @@
 [![GitHub](https://img.shields.io/github/license/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/blob/master/LICENSE "LICENSE")
 
 Repository for my texture pack "Rails-3D" (1.13.2) 
-
-[Rails 3D](https://minecraft.curseforge.com/projects/rails-3d "Curse Forge")
