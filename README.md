@@ -5,7 +5,7 @@
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/pulls "GitHub pull requests")
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/commits/master "GitHub commit activity")
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/commits/master "GitHub commit activity")
 [![GitHub last commit](https://img.shields.io/github/last-commit/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/commits/master "GitHub last commit")
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/releases "Release Date")
