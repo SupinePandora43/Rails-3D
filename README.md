@@ -8,9 +8,6 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/commits/master "GitHub commit activity")
 [![GitHub last commit](https://img.shields.io/github/last-commit/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/commits/master "GitHub last commit")
 
-[![GitHub Release Date](https://img.shields.io/github/release-date/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/releases "Release Date")
-[![GitHub All Releases](https://img.shields.io/github/downloads/SupinePandora43/Rails-3D/total.svg)](https://github.com/SupinePandora43/Rails-3D/releases "Release downloads")
-
 [![GitHub repo size](https://img.shields.io/github/repo-size/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D "Rails-3D")
 [![GitHub](https://img.shields.io/github/license/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/blob/master/LICENSE "LICENSE")
 
