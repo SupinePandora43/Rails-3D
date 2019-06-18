@@ -1,0 +1,15 @@
+{
+  "name": "rails-3d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SupinePandora43/Rails-3D.git",
+  "author": "SupinePandora43",
+  "license": "MIT",
+  "scripts": {
+    "json": "gulp json"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jsonlint": "^1.3.0"
+  }
+}
