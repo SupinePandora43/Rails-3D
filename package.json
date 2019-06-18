@@ -6,10 +6,12 @@
   "author": "SupinePandora43",
   "license": "MIT",
   "scripts": {
-    "json": "gulp json"
+    "json": "gulp json",
+    "zip": "gulp zip"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-jsonlint": "^1.3.0"
+    "gulp-jsonlint": "^1.3.0",
+    "gulp-zip": "^5.0.0"
   }
 }
