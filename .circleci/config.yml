@@ -29,4 +29,5 @@ jobs:
       # run tests!
       - run: yarn all
       - store_artifacts:
-            path: rails-3d.zip
+          destination: zip
+          path: rails-3d.zip
