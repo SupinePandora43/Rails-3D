@@ -1,6 +1,7 @@
 {
   "name": "rails-3d",
   "version": "1.0.0",
+  "private": true,
   "main": "index.js",
   "repository": "https://github.com/SupinePandora43/Rails-3D.git",
   "author": "SupinePandora43",

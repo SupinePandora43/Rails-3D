@@ -1,6 +1,6 @@
-﻿{
-  "pack": {
-    "pack_format": 4,
-    "description": "Rails, but in 3D! With mods support"
-  }
+{
+	"pack": {
+		"pack_format": 4,
+		"description": "Rails, but in 3D! With mods support"
+	}
 }
