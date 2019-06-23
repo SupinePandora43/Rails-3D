@@ -3,6 +3,7 @@
 [![latest version]( https://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://minecraft.curseforge.com/projects/rails-3d/files)
 [![Supported Versions]( https://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://minecraft.curseforge.com/projects/rails-3d/files)
 [![Packs](https://cf.way2muchnoise.eu/packs/rails-3d.svg)](https://minecraft.curseforge.com/projects/rails-3d/relations/dependents)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D?ref=badge_shield)
 
 [![GitHub issues](https://img.shields.io/github/issues/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/issues "GitHub issues")
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/SupinePandora43/Rails-3D.svg)](http://isitmaintained.com/project/SupinePandora43/Rails-3D "Average time to resolve an issue")
@@ -17,3 +18,7 @@
 [![GitHub](https://img.shields.io/github/license/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/blob/master/LICENSE "LICENSE")
 
 Repository for my texture pack "Rails-3D" (1.13.2) 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D?ref=badge_large)
