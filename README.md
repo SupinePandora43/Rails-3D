@@ -3,6 +3,8 @@
 [![latest version]( https://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://minecraft.curseforge.com/projects/rails-3d/files)
 [![Supported Versions]( https://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://minecraft.curseforge.com/projects/rails-3d/files)
 [![Packs](https://cf.way2muchnoise.eu/packs/rails-3d.svg)](https://minecraft.curseforge.com/projects/rails-3d/relations/dependents)
+
+[![CircleCI](https://circleci.com/gh/SupinePandora43/Rails-3D.svg?style=svg)](https://circleci.com/gh/SupinePandora43/Rails-3D)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D?ref=badge_shield)
 
 [![GitHub issues](https://img.shields.io/github/issues/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/issues "GitHub issues")
