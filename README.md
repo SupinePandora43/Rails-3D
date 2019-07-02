@@ -1,9 +1,9 @@
 # [Rails 3D](https://minecraft.curseforge.com/projects/rails-3d "Curse Forge")
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2c78fb6bf64f40c1868a60f1c4ffbb6d)](https://app.codacy.com/app/SupinePandora43/Rails-3D?utm_source=github.com&utm_medium=referral&utm_content=SupinePandora43/Rails-3D&utm_campaign=Badge_Grade_Dashboard)
-[![Downloads](https://cf.way2muchnoise.eu/full_rails-3d_downloads.svg)](https://minecraft.curseforge.com/projects/Rails-3d)
-[![latest version]( https://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://minecraft.curseforge.com/projects/rails-3d/files)
-[![Supported Versions]( https://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://minecraft.curseforge.com/projects/rails-3d/files)
-[![Packs](https://cf.way2muchnoise.eu/packs/rails-3d.svg)](https://minecraft.curseforge.com/projects/rails-3d/relations/dependents)
+[![Downloads](http://cf.way2muchnoise.eu/full_rails-3d_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
+[![latest version](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
+[![Supported Versions](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
+[![Packs](http://cf.way2muchnoise.eu/packs/rails-3d.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/relations/dependents)
 
 [![CircleCI](https://circleci.com/gh/SupinePandora43/Rails-3D.svg?style=svg)](https://circleci.com/gh/SupinePandora43/Rails-3D)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSupinePandora43%2FRails-3D?ref=badge_shield)
