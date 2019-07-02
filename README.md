@@ -1,4 +1,4 @@
-# [Rails 3D](https://minecraft.curseforge.com/projects/rails-3d "Curse Forge")
+# [Rails 3D](https://www.curseforge.com/minecraft/texture-packs/rails-3d "Curse Forge")
 
 [![Downloads](http://cf.way2muchnoise.eu/full_rails-3d_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
 [![latest version](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
@@ -20,7 +20,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D "Rails-3D")
 [![GitHub](https://img.shields.io/github/license/SupinePandora43/Rails-3D.svg)](https://github.com/SupinePandora43/Rails-3D/blob/master/LICENSE "LICENSE")
 
-Repository for my texture pack **Rails-3D**
+Repository for my texture pack [**Rails-3D**](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
 
 
 ## License
