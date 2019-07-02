@@ -1,4 +1,4 @@
-# [Rails 3D](https://www.curseforge.com/minecraft/texture-packs/rails-3d "Curse Forge")
+# [Rails 3D](https://www.curseforge.com/minecraft/texture-packs/rails-3d "Curse Forge") [![Build Status](https://travis-ci.org/SupinePandora43/Rails-3D.svg?branch=master)](https://travis-ci.org/SupinePandora43/Rails-3D)
 
 [![Downloads](http://cf.way2muchnoise.eu/full_rails-3d_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
 [![latest version](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
