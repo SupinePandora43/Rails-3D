@@ -25,3 +25,8 @@ jobs:
       - store_artifacts:
           destination: Rails-3D.zip
           path: rails-3d.zip
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build
