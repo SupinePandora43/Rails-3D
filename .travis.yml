@@ -1,7 +1,7 @@
 language: node_js
 cache: yarn
 nodejs:
-- lts
+- 11
 install:
 - yarn global add gulp-cli
 - yarn install
