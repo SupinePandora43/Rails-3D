@@ -9,7 +9,7 @@
   "scripts": {
     "json": "gulp json",
 	"zip": "gulp zip",
-	"all": "gulp"
+	"gulp": "gulp"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
