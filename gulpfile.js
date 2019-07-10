@@ -1,6 +1,7 @@
 const { src, task, series } = require("gulp")
 const jsonlint = require("gulp-jsonlint")
 const zip = require("gulp-zip")
+const request = require("request")
 
 task("json", async () => {
 	await src(["./assets/**/*.json", "pack.mcmeta"])
