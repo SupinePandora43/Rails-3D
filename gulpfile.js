@@ -1,4 +1,4 @@
-const { src, task, series } = require("gulp")
+const { src, task, series, dest } = require("gulp")
 const jsonlint = require("gulp-jsonlint")
 const zip = require("gulp-zip")
 const request = require("request")
@@ -13,7 +13,7 @@ task("json", async () => {
 task("zip", async () => {
 	await src(["**/assets/**", "pack.*"])
 		.pipe(zip("rails-3d.zip", { compress: false }))
-		.pipe(gulp.dest("."))
+		.pipe(dest("."))
 })
 
 task("upload", async () => {
