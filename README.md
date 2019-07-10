@@ -1,6 +1,7 @@
-# Rails 3D
+# [Rails 3D](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
+[![Travis (.org)](https://img.shields.io/travis/SupinePandora43/Rails-3d.svg?style=for-the-badge)](https://travis-ci.org/SupinePandora43/Rails-3D)
 
-![Rails 3D](http://cf.way2muchnoise.eu/title/rails-3d_DOWNLOAD_%20.svg?badge_style=for_the_badge "Curse Forge") [![Travis (.org)](https://img.shields.io/travis/SupinePandora43/Rails-3d.svg?style=for-the-badge)](https://travis-ci.org/SupinePandora43/Rails-3D)
+[![Rails 3D](http://cf.way2muchnoise.eu/title/rails-3d_DOWNLOAD_%20.svg?badge_style=for_the_badge "Curse Forge")](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
 
 [![Downloads](http://cf.way2muchnoise.eu/full_rails-3d_downloads.svg?style=for-the-badge)](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
 [![latest version](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg?style=for-the-badge)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
