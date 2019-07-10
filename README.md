@@ -2,7 +2,6 @@
 
 [![Downloads](http://cf.way2muchnoise.eu/full_rails-3d_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d)
 [![latest version](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
-[![Supported Versions](http://cf.way2muchnoise.eu/versions/rails-3d_latest.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/files)
 [![Packs](http://cf.way2muchnoise.eu/packs/rails-3d.svg)](https://www.curseforge.com/minecraft/texture-packs/rails-3d/relations/dependents)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2c78fb6bf64f40c1868a60f1c4ffbb6d)](https://app.codacy.com/app/SupinePandora43/Rails-3D?utm_source=github.com&utm_medium=referral&utm_content=SupinePandora43/Rails-3D&utm_campaign=Badge_Grade_Dashboard)
