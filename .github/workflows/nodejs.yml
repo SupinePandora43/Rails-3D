@@ -1,0 +1,21 @@
+name: Node CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install Node.JS
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - name: install dependencies
+      run: |
+        yarn global add gulp-cli
+        yarn install
+    - name: gulp
+      run: gulp
+      env:
+        CI: true
