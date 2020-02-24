@@ -4,6 +4,7 @@ Rails-3D help script
 * merging models
 """
 from PIL import Image
+from os import makedirs
 colors = {
 	"outer":(179, 179, 179),
 	"inner":(102, 102, 102)
@@ -87,4 +88,5 @@ rails = [
 for railgroup in rails:
 	for texture in railgroup["textures"]:
 		specular_image = texture["func"]()
+		makedirs(railgroup["path"]%texture["file"])
 		specular_image.save(railgroup["path"]%texture["file"])
