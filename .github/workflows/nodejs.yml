@@ -15,12 +15,16 @@ jobs:
       run: |
         yarn global add gulp-cli
         yarn install
+    - name: Setup Python environment
+      uses: actions/setup-python@v1.1.1
+    - run: pip install PIL
+    - run: python _.py
     - name: gulp
       run: gulp
     - name: Upload artifact
       uses: actions/upload-artifact@v1.0.0
       with:
-        name: pack.zip
+        name: pack
         path: rails-3d.zip
       env:
         CI: true
