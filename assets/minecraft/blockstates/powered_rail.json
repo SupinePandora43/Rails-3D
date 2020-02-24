@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "powered=false,shape=north_south":  { "model": "block/powered_rail/flat_off" },
+        "powered=false,shape=east_west":  { "model": "block/powered_rail/flat_off", "y": 90 },
+        "powered=false,shape=ascending_east": { "model": "block/powered_rail/raised_off", "y": 90 },
+        "powered=false,shape=ascending_west": { "model": "block/powered_rail/raised_off", "y": -90 },
+        "powered=false,shape=ascending_north": { "model": "block/powered_rail/raised_off" },
+        "powered=false,shape=ascending_south": { "model": "block/powered_rail/raised_off", "y": 180 },
+        "powered=true,shape=north_south":  { "model": "block/powered_rail/flat_on" },
+        "powered=true,shape=east_west":  { "model": "block/powered_rail/flat_on", "y": 90 },
+        "powered=true,shape=ascending_east": { "model": "block/powered_rail/raised_on", "y": 90 },
+        "powered=true,shape=ascending_west": { "model": "block/powered_rail/raised_on", "y": -90 },
+        "powered=true,shape=ascending_north": { "model": "block/powered_rail/raised_on" },
+        "powered=true,shape=ascending_south": { "model": "block/powered_rail/raised_on", "y": 180 }
+    }
+}

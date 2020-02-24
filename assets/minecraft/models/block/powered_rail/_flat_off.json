@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"golden": "block/powered_rail"
+	},
+	"elements": [
+		{
+			"name": "Left rail golden",
+			"from": [4, 2, 0],
+			"to": [5, 3, 16],
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#golden"},
+				"east": {"uv": [4, 0, 5, 16], "rotation": 90, "texture": "#golden"},
+				"south": {"uv": [4, 0, 5, 1], "texture": "#golden"},
+				"west": {"uv": [4, 0, 5, 16], "rotation": 270, "texture": "#golden"},
+				"up": {"uv": [4, 0, 5, 16], "texture": "#golden"},
+				"down": {"uv": [4, 0, 5, 16], "rotation": 180, "texture": "#golden"}
+			}
+		},
+		{
+			"name": "Right rail golden",
+			"from": [11, 2, 0],
+			"to": [12, 3, 16],
+			"faces": {
+				"north": {"uv": [11, 0, 12, 1], "texture": "#golden"},
+				"east": {"uv": [11, 0, 12, 16], "rotation": 90, "texture": "#golden"},
+				"south": {"uv": [11, 0, 12, 1], "texture": "#golden"},
+				"west": {"uv": [11, 0, 12, 16], "rotation": 270, "texture": "#golden"},
+				"up": {"uv": [11, 0, 12, 16], "texture": "#golden"},
+				"down": {"uv": [11, 0, 12, 16], "rotation": 180, "texture": "#golden"}
+			}
+		}
+	]
+}

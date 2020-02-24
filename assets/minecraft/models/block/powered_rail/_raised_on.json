@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"golden": "block/powered_rail"
+	},
+	"elements": [
+		{
+			"name": "Left rail golden",
+			"from": [4, 9, -3.32],
+			"to": [5, 10.005, 19.32],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9.65, 8]},
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#golden", "cullface": "Know2Good"},
+				"east": {"uv": [4, 0, 5, 16], "rotation": 90, "texture": "#golden", "cullface": "Know2Good"},
+				"south": {"uv": [4, 0, 5, 1], "texture": "#golden", "cullface": "Know2Good"},
+				"west": {"uv": [4, 0, 5, 16], "rotation": 270, "texture": "#golden", "cullface": "Know2Good"},
+				"up": {"uv": [4, 0, 5, 16], "texture": "#golden", "cullface": "Know2Good"},
+				"down": {"uv": [4, 0, 5, 16], "rotation": 180, "texture": "#golden", "cullface": "Know2Good"}
+			}
+		},
+		{
+			"name": "Right rail golden",
+			"from": [11, 9, -3.32],
+			"to": [12, 10.005, 19.32],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9.65, 8]},
+			"faces": {
+				"north": {"uv": [11, 0, 12, 1], "texture": "#golden", "cullface": "Know2Good"},
+				"east": {"uv": [11, 0, 12, 16], "rotation": 90, "texture": "#golden", "cullface": "Know2Good"},
+				"south": {"uv": [11, 0, 12, 1], "texture": "#golden", "cullface": "Know2Good"},
+				"west": {"uv": [11, 0, 12, 16], "rotation": 270, "texture": "#golden", "cullface": "Know2Good"},
+				"up": {"uv": [11, 0, 12, 16], "texture": "#golden", "cullface": "Know2Good"},
+				"down": {"uv": [11, 0, 12, 16], "rotation": 180, "texture": "#golden", "cullface": "Know2Good"}
+			}
+		}
+	]
+}
