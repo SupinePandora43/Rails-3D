@@ -17,5 +17,10 @@ jobs:
         yarn install
     - name: gulp
       run: gulp
+    - name: Upload artifact
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: pack.zip
+        path: rails-3d.zip
       env:
         CI: true
