@@ -88,5 +88,5 @@ rails = [
 for railgroup in rails:
 	for texture in railgroup["textures"]:
 		specular_image = texture["func"]()
-		os.makedirs(os.path.dirname(railgroup["path"]%texture["file"]))
+		os.makedirs(os.path.dirname(railgroup["path"]%texture["file"]),exist_ok=True)
 		specular_image.save(railgroup["path"]%texture["file"])
