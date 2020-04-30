@@ -1,12 +1,9 @@
-# for testing
-assets/minecraft/textures/blocks/rail_activator.png
-assets/minecraft/textures/blocks/rail.png
-assets/minecraft/textures/blocks/rail_golden.png
-assets/minecraft/textures/blocks/rail_normal_turned.png
-assets/minecraft/textures/blocks/activator_rail.png
-assets/minecraft/textures/blocks/detector_rail.png
-assets/minecraft/textures/blocks/powered_rail.png
-assets/minecraft/textures/blocks/rail_corner.png
-
 node_modules
 rails-3d.zip
+_assets
+#*.png
+*_s.png
+assets/*/models/block/*rail*/*
+!assets/*/models/block/*rail*/_*
+__pycache__
+.mypy_cache

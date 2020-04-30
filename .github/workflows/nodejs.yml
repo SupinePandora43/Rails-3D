@@ -6,16 +6,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Install Node.JS
-      uses: actions/setup-node@v1
-      with:
-        node-version: 12.x
-    - name: install dependencies
-      run: |
-        yarn global add gulp-cli
-        yarn install
-    - name: gulp
-      run: gulp
-      env:
-        CI: true
+      - uses: actions/checkout@v1
+      - name: Install Node.JS
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: install dependencies
+        run: |
+          yarn global add gulp-cli
+          yarn install
+      - name: Setup Python environment
+        uses: actions/setup-python@v1.1.1
+      - run: pip install Pillow
+      - run: python _.py
+      - name: gulp
+        run: gulp
+      - name: Upload artifact
+        uses: actions/upload-artifact@v1.0.0
+        with:
+          name: pack
+          path: rails-3d.zip
+        env:
+          CI: true
