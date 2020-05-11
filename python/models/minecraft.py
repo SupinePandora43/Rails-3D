@@ -171,7 +171,7 @@ save("./assets/minecraft/models/block/activator_rail/flat_on.json", activator_ra
 save("./assets/minecraft/models/block/rail_raised.json", rail_raised())
 save("./assets/minecraft/models/block/rail_flat.json", rail_flat())
 def rail_curved():
-	with open("./assets/minecraft/models/block/_rail_flat.json") as file:
+	with open("./assets/minecraft/models/block/_rail_curved.json") as file:
 		return json.load(file)
 save("./assets/minecraft/models/block/rail_curved.json", rail_curved())
 save("./assets/minecraft/models/block/detector_rail/flat_on.json", detector_rail_flat_on())

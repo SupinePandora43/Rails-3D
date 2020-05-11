@@ -1,6 +1,7 @@
 {
 "textures": {
-	"particle":	"#rail"
+	"rail" : "block/rail_corner",
+	"particle": "block/rail_corner"
 },
 "elements":[
 	{
