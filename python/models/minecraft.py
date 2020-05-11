@@ -80,12 +80,16 @@ def activator_rail_flat_off():
     return _
 
 
-def activator_rail_raised():
+def activator_rail_raised_on():
     with open("./assets/minecraft/models/block/activator_rail/_raised_on.json") as file:
         __rail = rail_raised()
         jf = merge(json.load(file))
         return merge(jf, __rail)
 
+def activator_rail_raised_off():
+    __rail = activator_rail_raised_on()
+    __rail["textures"]["detail"] = "block/activator_rail"
+    return merge(__rail)
 
 def detector_rail_flat_on():
     __rail = rail_flat()
@@ -131,14 +135,14 @@ def powered_rail_flat_off():
 
 
 def powered_rail_raised_on():
-    __rail = activator_rail_raised()
+    __rail = activator_rail_raised_on()
     with open("./assets/minecraft/models/block/powered_rail/_raised_on.json") as file:
         jf = merge(json.load(file))
         return merge(jf, __rail)
 
 
 def powered_rail_raised_off():
-    __rail = activator_rail_raised()
+    __rail = activator_rail_raised_on()
     __rail["textures"]["detail"] = "block/activator_rail"
     with open("./assets/minecraft/models/block/powered_rail/_raised_off.json") as file:
         jf = merge(json.load(file))
@@ -166,8 +170,11 @@ for t in tdb:
 # print(strdb)
 # strdb[2]
 
-save("./assets/minecraft/models/block/activator_rail/raised_on.json", activator_rail_raised())
+save("./assets/minecraft/models/block/activator_rail/raised_on.json", activator_rail_raised_on())
 save("./assets/minecraft/models/block/activator_rail/flat_on.json", activator_rail_flat_on())
+save("./assets/minecraft/models/block/activator_rail/raised_off.json", activator_rail_raised_off())
+save("./assets/minecraft/models/block/activator_rail/flat_off.json", activator_rail_flat_off())
+
 save("./assets/minecraft/models/block/rail_raised.json", rail_raised())
 save("./assets/minecraft/models/block/rail_flat.json", rail_flat())
 def rail_curved():
