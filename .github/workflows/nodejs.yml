@@ -16,7 +16,7 @@ jobs:
           yarn global add gulp-cli
           yarn install
       - name: Setup Python environment
-        uses: actions/setup-python@v1.1.1
+        uses: actions/setup-python@v2
       - run: pip install Pillow
       - run: python _.py
       - name: gulp
