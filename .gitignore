@@ -5,5 +5,7 @@ _assets
 *_s.png
 assets/*/models/block/*rail*/*
 !assets/*/models/block/*rail*/_*
+assets/*/models/block/*.json
+!assets/*/models/block/_*.json
 __pycache__
 .mypy_cache

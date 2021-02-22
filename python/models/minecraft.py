@@ -151,7 +151,7 @@ def powered_rail_raised_off():
 
 def save(path, dick):
     with open(path, "w") as f:
-        f.write(str(dick).replace('\'', "\""))
+        f.write(str(dick).replace('\'', "\"").replace(" ", ""))
 
 
 strdb = {}
